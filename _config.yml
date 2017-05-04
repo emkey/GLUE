@@ -1,0 +1,13 @@
+name : OLX Design System Glue
+brand : GLUE Design System Guide
+description : This is the description of my project
+keyword : 
+url : 
+email : 
+twitter : 
+github : 
+author : Mark Lester C. Lacsamana, Daniel Migliorelli, Karen Banzon
+year : 2016
+markdown : kramdown
+exclude :
+  - node_modules
